@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "date": "2026-08-03",
+    "skill": "HTML",
+    "what_i_did": "Rebuilt my portfolio header using semantic tags instead of divs",
+    "minutes": 75,
+    "confidence": 3
+  },
+  {
+    "id": 2,
+    "date": "2026-08-03",
+    "skill": "CSS",
+    "what_i_did": "Practised flexbox by laying out a card row three different ways",
+    "minutes": 60,
+    "confidence": 2
+  },
+  {
+    "id": 3,
+    "date": "2026-08-04",
+    "skill": "Git",
+    "what_i_did": "Made a branch, committed on it, and merged it back into main",
+    "minutes": 45,
+    "confidence": 1
+  },
+  {
+    "id": 4,
+    "date": "2026-08-05",
+    "skill": "React",
+    "what_i_did": "Read the Quick Start on react.dev and built my first component",
+    "minutes": 120,
+    "confidence": 1
+  },
+  {
+    "id": 5,
+    "date": "2026-08-05",
+    "skill": "JavaScript",
+    "what_i_did": "Worked through map and filter on arrays until I could write them without looking",
+    "minutes": 90,
+    "confidence": 2
+  },
+  {
+    "id": 6,
+    "date": "2026-08-06",
+    "skill": "React",
+    "what_i_did": "Passed data into a component using props and rendered a list from it",
+    "minutes": 105,
+    "confidence": 2
+  },
+  {
+    "id": 7,
+    "date": "2026-08-07",
+    "skill": "Python",
+    "what_i_did": "Wrote small functions from a written spec without copying an example",
+    "minutes": 80,
+    "confidence": 2
+  },
+  {
+    "id": 8,
+    "date": "2026-08-08",
+    "skill": "Communication",
+    "what_i_did": "Recorded a two minute explanation of what I built this week",
+    "minutes": 30,
+    "confidence": 1
+  }
+]
